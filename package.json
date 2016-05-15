@@ -1,0 +1,11 @@
+{
+  "name": "tg-node-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Peter Jankovsky <peter@jankovsky.me>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.3.9"
+  }
+}
