@@ -6,6 +6,6 @@
   "author": "Peter Jankovsky <peter@jankovsky.me>",
   "license": "MIT",
   "dependencies": {
-    "aws-sdk": "^2.3.9"
+    "aws-sdk": "^2.3.11"
   }
 }
