@@ -6,6 +6,8 @@
   "author": "Peter Jankovsky <peter@jankovsky.me>",
   "license": "MIT",
   "dependencies": {
-    "aws-sdk": "^2.3.11"
+    "aws-sdk": "^2.3.11",
+    "mysql": "^2.10.2",
+    "sequelize": "^3.23.2"
   }
 }
